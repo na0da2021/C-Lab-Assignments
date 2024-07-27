@@ -65,7 +65,7 @@ Below is a list of some of the lab assignments included in this repository:
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/na0da2021/C-Lab-Assignments.git
+    git clone https://github.com/na0da2021/C_Lab_Assignments.git
     ```
 2. Navigate to the project directory:
     ```sh
