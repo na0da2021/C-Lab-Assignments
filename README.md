@@ -69,7 +69,7 @@ Below is a list of some of the lab assignments included in this repository:
     ```
 2. Navigate to the project directory:
     ```sh
-    cd C-Lab-Assignments
+    cd C_Lab_Assignments
     ```
 
 ## Usage
